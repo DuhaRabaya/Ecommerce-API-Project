@@ -1089,7 +1089,8 @@
       },
       "DSHOP.BLL/1.0.0": {
         "dependencies": {
-          "DSHOP.DAL": "1.0.0"
+          "DSHOP.DAL": "1.0.0",
+          "Mapster": "7.4.0"
         },
         "runtime": {
           "DSHOP.BLL.dll": {
